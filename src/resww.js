@@ -4,7 +4,7 @@ export const restaurantData = [
       name: "La Petite France",
       city: "Paris",
       price: "$",
-      main_image: "https://images.pexels.com/photos/5718059/pexels-photo-5718059.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "French",
       images: [],
       description:
@@ -16,7 +16,7 @@ export const restaurantData = [
       name: "Pizzeria Da Michele",
       city: "Naples",
       price: "$",
-      main_image: "https://images.pexels.com/photos/8887200/pexels-photo-8887200.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/1310777/pexels-photo-1310777.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Italian",
       images: [],
       description:
@@ -28,7 +28,7 @@ export const restaurantData = [
       name: "Korean BBQ House",
       city: "Los Angeles",
       price: "$",
-      main_image: "https://images.pexels.com/photos/12512040/pexels-photo-12512040.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/2814828/pexels-photo-2814828.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Korean",
       images: [],
       description:
@@ -40,7 +40,7 @@ export const restaurantData = [
       name: "El Pastor",
       city: "London",
       price: "$",
-      main_image: "https://images.pexels.com/photos/7426868/pexels-photo-7426868.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Mexican",
       images: [],
       description:
@@ -52,7 +52,7 @@ export const restaurantData = [
       name: "The Fat Duck",
       city: "Bray",
       price: "$",
-      main_image: "https://images.pexels.com/photos/5649897/pexels-photo-5649897.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Modern European",
       images: [],
       description:
@@ -88,7 +88,7 @@ export const restaurantData = [
       name: "Shake Shack",
       city: "New York",
       price: "$",
-      main_image: "https://images.pexels.com/photos/8755349/pexels-photo-8755349.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "American",
       images: [],
       description:
@@ -100,7 +100,7 @@ export const restaurantData = [
       name: "Ristorante Da Valentino",
       city: "Rome",
       price: "$",
-      main_image: "https://images.pexels.com/photos/12842289/pexels-photo-12842289.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/3997609/pexels-photo-3997609.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Italian",
       images: [],
       description:
@@ -112,7 +112,7 @@ export const restaurantData = [
       name: "Matsuhisa",
       city: "Beverly Hills",
       price: "$",
-      main_image: "https://images.pexels.com/photos/12664793/pexels-photo-12664793.jpeg?auto=compress&cs=tinysrgb&w=600",
+      main_image: "https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cuisine: "Japanese",
       images: [],
       description:

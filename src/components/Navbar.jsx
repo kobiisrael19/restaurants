@@ -10,8 +10,8 @@ export default function Navbar() {
         <div className='text-white text-center mt-5 pt-4' style={{ height: '180px' }}><span className='fs-1'>Find your table for any accosion</span><br />
           <div className='d-flex justify-content-center align-items-center mt-4'>
             <input ref={refName} className='p-2 rounded-2 me-2' type="text" placeholder='search. . . ' />
-            <button className='btn btn-danger me-2'>lets go</button>
-           <Link to={'/creat'}> <button className='btn btn-light'>Create</button></Link>
+            <button className='btn btn-dark me-2'>lets go</button>
+           <Link to={'/creat'}> <button className='btn btn-dark'>Create</button></Link>
           </div>
         </div>
       </div>

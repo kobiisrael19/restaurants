@@ -21,7 +21,7 @@ export default function Home() {
             <div className='border border-dark mb-5 m-1 mx-2'>
               <Link to={`/resdeatels/${value.id - 1}`}><div key={i}> <img src={value.main_image} style={{ width: "350px",height:'260px' }} alt="" />
               </div></Link>
-              <div className='text-center bg-danger p-5'>
+              <div className='bg text-center p-5'>
                 <h4>{value.name}</h4>
                 <p>{value.city}</p>
                 <p>{value.price}{Math.floor(Math.random() * 200)}</p>
@@ -33,17 +33,17 @@ export default function Home() {
         <div className='d-flex flex-wrap mt-3 justify-content-center gap-4'>
           {res_arr.map((item => {
             return (
-              <div className=' border border-dark m-1'>
+              <div className=' border border-dark '>
                 <img style={{ width: '350px',height:'250px' }} src={item.image} alt="" />
-                <div className='text-center bg-success p-5'>
-                  <h1>{item.name}</h1>
+                <div className='bg text-center p-5'>
+                  <h4>{item.name}</h4>
                   <p>{item.city}</p>
                   <p>{item.price}</p>
                   <p>{item.cuision}</p>
                   <button onClick={() => {
                   dispatch(deleteRes({delId:item.id}))
                 }}
-                  className='btn btn-danger float-end m-2 '>delete</button>
+                  className='btn btn-dark float-end m-2 '>delete</button>
                 </div>
               
               </div>
